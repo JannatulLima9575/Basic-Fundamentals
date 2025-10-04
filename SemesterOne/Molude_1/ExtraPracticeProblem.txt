@@ -1,0 +1,28 @@
+Extra Practice Problem
+
+1. Explain why we need long long int data type? 
+Ans : long long int is used to store very large integer values that exceed the range of int or long int.
+Example: int may store up to 4 byte , but long long int can store up to 8 byte quintillion.
+
+
+2. Write all the rules for naming a variable in C programming.
+
+i. Name can contain letters, digits, and underscore _.
+ii. Must start with a letter or underscore, not a digit.
+iii. Cannot use keywords as variable names.
+iv. Names are case-sensitive (a ≠ A).
+v. No spaces or special characters allowed.
+
+3. Write a C program that will take 2 numbers from the user and then print the 2nd number first and then first number.  
+
+#include <stdio.h>
+
+int main() {
+    int a, b;
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
+
+    printf("Swapped order: %d %d\n", b, a);
+
+    return 0;
+}

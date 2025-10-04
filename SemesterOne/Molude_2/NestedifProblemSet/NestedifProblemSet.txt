@@ -1,0 +1,80 @@
+🔹 Nested if Problem Set
+
+1️⃣ Grade Calculation
+
+Input: Marks (0–100)
+
+Condition:
+
+If marks ≥ 40 → Pass
+
+If marks ≥ 80 → Excellent
+
+Else if marks ≥ 60 → Good
+
+Else → Average
+
+Else → Fail
+
+2️⃣ Travel Decision
+
+Input: Money you have
+
+Condition:
+
+If money ≥ 5000 → Go to Cox’s Bazar
+
+If money ≥ 10000 → Also visit Saint Martin
+
+Else → Come back from Cox’s Bazar
+
+Else → Don’t go anywhere
+
+3️⃣ Voting Eligibility
+
+Input: Age and Citizenship
+
+Condition:
+
+If age ≥ 18 → Eligible
+
+If citizen = “Bangladeshi” → Can vote
+
+Else → Cannot vote in Bangladesh
+
+Else → Not eligible to vote
+
+4️⃣ Exam Admission
+
+Input: GPA and Attendance %
+
+Condition:
+
+If GPA ≥ 2.5 → Check attendance
+
+If attendance ≥ 75% → Eligible for exam
+
+Else → Not allowed
+
+Else → Not allowed
+
+5️⃣ Job Selection
+
+Input: Degree (BSc/MSc) and Experience (years)
+
+Condition:
+
+If degree = “MSc” → Check experience
+
+If experience ≥ 2 → Selected
+
+Else → Need more experience
+
+Else → Not eligible
+
+
+
+
+
+Q1. Take a number from user and check if its a even number or odd number.
+Q2. Take a number from user and check if its a positive or negative number.

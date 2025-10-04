@@ -1,0 +1,2 @@
+## There have three types of operator in Logical operator
+Such as : AND &&, OR ||, NOT !
